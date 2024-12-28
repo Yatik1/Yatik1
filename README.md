@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yatik Srivastava
-I am a dedicated software developer. I enjoy building responsive, user-friendly web applications and developing robust server-side solutions. I enjoy working with modern technologies, ensuring efficient, scalable, and reliable systems. From crafting dynamic user interfaces to designing and optimizing backend architectures.I’m always eager to take on new challenges and grow my expertise.
+I am a software developer. I enjoy building responsive, user-friendly web applications and developing robust server-side solutions. I enjoy working with modern technologies, ensuring efficient, scalable, and reliable systems. From crafting dynamic user interfaces to designing and optimizing backend architectures.I’m always eager to take on new challenges and grow my expertise.
 
 
 ## 🌐 Socials:
